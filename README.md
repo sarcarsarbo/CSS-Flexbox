@@ -48,7 +48,7 @@ Further features can be added to the static site.
 
 ### Useful resources
 
-- [ALigning items in a flex container](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Aligning_items_in_a_flex_container) - This helped me to understand the layout better and align the items properly.
+- [Aligning items in a flex container](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Aligning_items_in_a_flex_container) - This helped me to understand the layout better and align the items properly.
 - [CSS Box Shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow) - This helped me to implement box shadows in CSS, a feature that subtly leveraged the design.
 
 
